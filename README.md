@@ -1,4 +1,4 @@
-- 👋 Hi, I’m QA trainee 
+- 👋 Hi, I’m a QA trainee 
 - 👀 I’m interested in ...software testing
 - 🌱 I’m currently learning ...to collaborate on software testing projects
 - 💞️ I’m looking to collaborate on ...learning tools to become a quality assurance tester
